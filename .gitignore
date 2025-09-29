@@ -1,3 +1,25 @@
-_site
-Gemfile
-Gemfile.lock
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler config
+.bundle/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+*.swp
+*.swo
+*.idea/
+*.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
