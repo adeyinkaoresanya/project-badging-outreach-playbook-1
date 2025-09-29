@@ -50,13 +50,17 @@ description: "A guide for DEI advocates to support CHAOSS Project Badging adopti
 #   - jekyll-feed
 
 
-theme: "just-the-docs"
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+
+title: "CHAOSS DEI Project Badging Outreach Playbook"
+description: "Playbook for CHAOSS DEI Project Badging outreach ambassadors."
+url: "https://adeyinkaoresanya.github.io"
+baseurl: "/project-badging-outreach-playbook-1"
+
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
 
 
-repository: "https://github.com/adeyinka-oresanya/project-badging-outreach-playbook"
+repository: "https://github.com/adeyinka-oresanya/project-badging-outreach-playbook-1"
 nav_order:
 - _index.md
 - 00-overview.md
