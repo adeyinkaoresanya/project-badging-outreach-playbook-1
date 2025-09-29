@@ -12,7 +12,7 @@
 
 # # Sidebar navigation
 # nav_items:
-#   - title: "CHAOSS DEI Project Badging Outreach Playbook"
+#   - tit le: "CHAOSS DEI Project Badging Outreach Playbook"
 #     url: /
 #     children:
 #       -title: "Playbook Sections"
