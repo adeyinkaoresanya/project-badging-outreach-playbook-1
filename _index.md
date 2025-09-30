@@ -1,5 +1,7 @@
 ---
+title: "Project Badging Playbook"
 layout: default
+nav_order: 0
 ---
 
 
