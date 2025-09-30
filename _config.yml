@@ -63,7 +63,7 @@ color_scheme: dark
 repository: "https://github.com/adeyinka-oresanya/project-badging-outreach-playbook-1"
 nav_order:
 #- _index.md
-- 01-introduction.md
+#- 01-introduction.md
 - 02-outreach-ambassador.md
 - 03-about-project-badging.md
 - 04-how-it-works.md
