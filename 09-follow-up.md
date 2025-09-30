@@ -1,5 +1,5 @@
 ---
-title: "Follow Up & Tracking"
+title: "Follow Up"
 nav_order: 9
 layout: default
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Resources & FAQs"
+title: "Resources"
 nav_order: 8
 layout: default
 ---

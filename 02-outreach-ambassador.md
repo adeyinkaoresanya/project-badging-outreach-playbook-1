@@ -1,5 +1,5 @@
 ---
-title: "Outreach Ambassador Guidance"
+title: "Outreach Ambassador Guide"
 nav_order: 2
 
 layout: default
