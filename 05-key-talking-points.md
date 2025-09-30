@@ -4,6 +4,8 @@ nav_order: 5
 layout: default
 ---
 
+## Key Talking Points
+
 _When introducing Project Badging, keep your message simple and structured around the **Why, What, and How**._
 
 ### Why It Matters

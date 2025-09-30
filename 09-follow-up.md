@@ -22,19 +22,10 @@ After three attempts, it’s okay to stop unless the project re-engages.
 ### Message Content
 - **Follow-up #1:** Gentle reminder, re-share the link to apply, highlight one clear benefit.  
 - **Follow-up #2:** Share a success story or example project to inspire action.  
-- **Follow-up #3:** Leave the door open — “Whenever your team is ready, we’re here to support you.”
+- **Follow-up #3:** Leave the door open — “Whenever your team is ready, we are here to support you.”
 
 ### When to Stop
 - After 3 unanswered follow-ups.  
 - If the project explicitly declines.  
 - If they say “not now,” make a note to circle back in 6–12 months.
 
-## Tracking and Reporting
-To measure outreach impact, log your efforts:
-
-- Date of outreach  
-- Who you engaged (name, project, role)  
-- What was shared (talk, email, meeting)  
-- Current status (interested, applied, badged, no response)  
-
-Please use this spreadsheet to log your report.

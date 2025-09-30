@@ -6,7 +6,7 @@ layout: default
 
 ## Conversation Flow: How to Talk About Project Badging
 
-### Start With the Need
+### Start with the need
 - Highlight why DEI matters in open source projects.  
 - Emphasize that diverse, inclusive communities are healthier, more sustainable, and more attractive to contributors and sponsors.  
 - Position Project Badging as a way to reflect on current practices and show commitment.
@@ -14,7 +14,7 @@ layout: default
 **Example:**  
 > “Many projects want to grow in inclusivity but aren’t always sure how to show or measure that progress. That’s where Project Badging comes in.”
 
-### Present the Opportunity
+### Present the opportunity
 - Explain that Project Badging is not about passing or failing — it’s about self-reflection and visibility.  
 - Mention that the badge provides external recognition while also guiding internal improvements.  
 - Highlight that it uses CHAOSS DEI metrics developed openly and collaboratively, giving it credibility.
@@ -22,20 +22,20 @@ layout: default
 **Example:**  
 > “This process helps your project think carefully about DEI and gives you a badge you can display to signal that commitment to your community members and sponsors.”
 
-### Talk About Success Stories
-- Sharing examples helps projects see that badging is both possible and impactful.  
+### Talk about success stories
+- Sharing examples helps projects see that badging is both possible and impactful. See Django's [blog post](https://www.djangoproject.com/weblog/2025/jan/19/django-earns-the-chaoss-dei-bronze-badge/).  
 
 **Example:**  
 > “Other well-known projects like Gitlab, Kalilinux, Django, and CHAOSS itself have earned badges, and they use them to signal their ongoing DEI commitment.”
 
-### Offer Support
+### Offer support
 - Emphasize the low barrier to entry — it’s about honest reflection, not perfection.  
 - Offer to walk them through the process if they want.  
 
 **Example:**  
-> “We can walk with you through the application. It’s not about being perfect — just about being open to improvement.”
+> “We can walk you through the application. It’s not about being perfect — just about being open to improvement.”
 
-### Invite to Act
+### Invite to act
 - Encourage them to take the next step, but keep it approachable and low-pressure.  
 - Offer a concrete timeframe that makes it feel achievable.  
 
@@ -43,7 +43,8 @@ layout: default
 > “Would your team be open to learning more or applying for a badge this month? It usually only takes a few hours.”
 
 ## Objection Handling
+Here are some examples of concerns and how you can provide encouragement:
 - **Too small** → Even small projects benefit. The badge can help you grow.  
-- **No DEI expertise** → You don’t need any — it’s about documenting current practices. We’ll guide you.  
+- **No DEI expertise** → You don’t need any — it’s about documenting current practices. We will guide you.  
 - **No time** → Takes only a few hours, builds on what you already have.  
-- **Worried about failing** → There’s no failing. Every project gets feedback and support.
+- **Worried about failing** → There’s no failing. Every project gets support if they want.

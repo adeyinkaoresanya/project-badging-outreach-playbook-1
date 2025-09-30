@@ -5,7 +5,7 @@ nav_order: 2
 layout: default
 ---
 
-## How to be an effective Outreach Ambassador
+## How to be an Effective Outreach Ambassador
 As an outreach ambassador, your role is to encourage, support, and guide projects through the CHAOSS Project Badging process. You are not a gatekeeper, you don’t judge readiness or expertise. Instead, you:
 
 - Introduce projects to the initiative.  
